@@ -1,8 +1,8 @@
-👋 Hi, I’m @MurdochB  
-👀 I’m interested in all things Java / backend. 
+👋  Hi, I’m @MurdochB  
+👀  I’m interested in all things Java / backend. 
 
 
-📫 brandon.murdoch@sainsburys.co.uk
+📫  brandon.murdoch@sainsburys.co.uk
 
 <!---
 MurdochB/MurdochB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
